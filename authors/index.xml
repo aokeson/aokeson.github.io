@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Alex Okeson</title>
+    <link>https://aokeson.github.io/authors/</link>
+    <description>Recent content in Authors on Alex Okeson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year}</copyright>
+    
+	    <atom:link href="https://aokeson.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://aokeson.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aokeson.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a third year PhD student advised by &lt;a href=&#34;https://homes.cs.washington.edu/~jfogarty/&#34; target=&#34;_blank&#34;&gt;James Fogarty&lt;/a&gt; in &lt;a href=&#34;https://www.cs.washington.edu/&#34; target=&#34;_blank&#34;&gt;Computer Science and Engineering&lt;/a&gt; at the University of Washington. I research how to use &lt;strong&gt;machine learning&lt;/strong&gt; and &lt;strong&gt;data analytics&lt;/strong&gt; to help individuals and doctors better &lt;strong&gt;understand&lt;/strong&gt; and &lt;strong&gt;make decisions&lt;/strong&gt; based on health data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
