@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Alex Okeson</title>
-    <link>https://aokeson.github.io/publication/</link>
-    <description>Recent content in Publications on Alex Okeson</description>
+    <title>Su-In Lee** on Alex Okeson</title>
+    <link>https://aokeson.github.io/authors/su-in-lee/</link>
+    <description>Recent content in Su-In Lee** on Alex Okeson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
     <lastBuildDate>Wed, 17 Feb 2021 00:00:00 -1000</lastBuildDate>
     
-	    <atom:link href="https://aokeson.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://aokeson.github.io/authors/su-in-lee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 17 Feb 2021 00:00:00 -1000</pubDate>
       
       <guid>https://aokeson.github.io/publication/dementia_jbhi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunities for Bayesian Network Learning in Personal Informatics Tools</title>
-      <link>https://aokeson.github.io/publication/bayes_workshop/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 -1000</pubDate>
-      
-      <guid>https://aokeson.github.io/publication/bayes_workshop/</guid>
       <description></description>
     </item>
     

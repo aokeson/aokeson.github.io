@@ -7,15 +7,24 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 -1000</lastBuildDate>
     
 	    <atom:link href="https://aokeson.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2</title>
+      <link>https://aokeson.github.io/publication_types/2/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 -1000</pubDate>
+      
+      <guid>https://aokeson.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>0</title>
       <link>https://aokeson.github.io/publication_types/0/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 -1000</pubDate>
       
       <guid>https://aokeson.github.io/publication_types/0/</guid>
       <description></description>
