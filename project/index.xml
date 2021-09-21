@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -1000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 -0800</lastBuildDate>
     
 	    <atom:link href="https://aokeson.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Actionable Bayesian Analysis for Evolving Health Goals</title>
       <link>https://aokeson.github.io/project/bayes/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -1000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0800</pubDate>
       
       <guid>https://aokeson.github.io/project/bayes/</guid>
       <description>&lt;p&gt;Many people, especially those with chronic health conditions such as irritable bowel syndrome and chronic migraine, track health related  variables with the hope of discovering connections between causes and symptoms and enabling more informed choices regarding their health. Gaining actionable insights from this kind of data is known to be difficult because current tools often fail to automatically analyze data in scientifically rigorous, helpful, and actionable ways. Additionally, current tools often fail to account for lapses in tracking, evolving health goals, and the growing burden of tracking more information. This tool uses Bayesian network analysis framework to support individuals in analyzing their personal health data in evolving real life contexts.
@@ -26,7 +26,7 @@
     <item>
       <title>ML Interpretability Tool Use and Global Feature Rankings</title>
       <link>https://aokeson.github.io/project/interpretability/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 -1000</pubDate>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 -0800</pubDate>
       
       <guid>https://aokeson.github.io/project/interpretability/</guid>
       <description>&lt;p&gt;Interpretability tools such as SHAP, LIME, InterpretML, and others are widely used to examine what is happening &amp;lsquo;under the hood&amp;rsquo; of different machine learning algorithms. However, the literature suggests that these tools can be difficult to use and understand, leading to misunderstanding and misplaced trust in a model. I conducted 2 qualitative studies to: 1) understand how experienced users use machine learning interpretability tools and the pitfalls they experience and 2) evaluate an alternative global ranking aggregation scheme. This project was started during an internship with with &lt;a href=&#34;http://www.jennwv.com/&#34; target=&#34;_blank&#34;&gt;Jenn Wortman Vaughan&lt;/a&gt; and &lt;a href=&#34;http://dirichlet.net/&#34; target=&#34;_blank&#34;&gt;Hanna Wallach&lt;/a&gt; in the &lt;a href=&#34;https://www.microsoft.com/en-us/research/theme/fate/&#34; target=&#34;_blank&#34;&gt;FATE group&lt;/a&gt; at Microsoft Research.
@@ -37,7 +37,7 @@
     <item>
       <title>Efficient and Explainable Risk Assessments for Imminent Dementia in an Aging Cohort Study</title>
       <link>https://aokeson.github.io/project/dementia/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 -1000</pubDate>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 -0700</pubDate>
       
       <guid>https://aokeson.github.io/project/dementia/</guid>
       <description>&lt;p&gt;As the aging US population grows, scalable approaches are needed to identify individuals at risk for dementia. Common prediction tools have  limited predictive value, involve expensive neuroimaging, or require extensive and repeated cognitive testing.  None of these approaches scale to the sizable aging population who do not receive routine clinical assessments. Our study seeks a tractable and widely administrable set of metrics that can accurately predict imminent (i.e., within three years) dementia onset. To this end, we develop and apply a machine learning (ML) model to an aging cohort study with an extensive set of longitudinal clinical variables to highlight at-risk individuals with better accuracy than standard rudimentary approaches. Next, we reduce the burden needed to achieve accurate risk assessments for those deemed at risk by (1) predicting when consecutive clinical visits may be unnecessary, and (2) selecting a subset of highly predictive cognitive tests. Finally, we demonstrate that our method successfully provides individualized prediction explanations that retain non-linear feature effects present in the data. Our final model, which uses only four cognitive tests (less than 20 minutes to administer) collected in a single visit, affords predictive performance comparable to a standard 100-minute  neuropsychological battery and personalized risk explanations. Our approach shows the potential for an efficient tool for screening and explaining dementia risk in the general aging population.
@@ -48,7 +48,7 @@
     <item>
       <title>Cutting-Edge Anesthesia</title>
       <link>https://aokeson.github.io/project/data_vis/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 -1000</pubDate>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 -0700</pubDate>
       
       <guid>https://aokeson.github.io/project/data_vis/</guid>
       <description>&lt;p&gt;A customizable surgical anesthesia monitor using D3 based on needs identified by interviews with doctors. Displays real time waveform vitals data, along with past vitals data trends. Allows users to explore past and present waveforms side by side, customize which waveforms and trends they want to see, and automatically calculates vitals statistics not available in current displays.
