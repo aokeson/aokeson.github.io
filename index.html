@@ -116,7 +116,7 @@
   <meta property="og:description" content="PhD Candidate"><meta property="og:image" content="https://aokeson.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2021-02-17T00:00:00-09:00">
+  <meta property="og:updated_time" content="2021-12-31T00:00:00-08:00">
   
 
   
@@ -682,6 +682,101 @@
 
 
   
+  <span itemprop="author name" itemtype="http://schema.org/Person"><strong>Alex Okeson</strong></span>, <span itemprop="author name" itemtype="http://schema.org/Person">Rich Caruana</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Nick Craswell</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Kori Inkpen</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Scott M. Lundberg</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Harsha Nori</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Hanna Wallach</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Jennifer Wortman Vaughan</span>.
+
+
+
+  </span>
+  
+  <a href="http://sites.computer.org/debull/A21dec/A21DEC-CD.pdf" itemprop="name">Summarize with Caution: Comparing Global Feature Attributions</a>.
+  IEEE Data Engineering Bulletin on Responsible AI and Human-AI Interaction,
+  2021.
+  <br><p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/global_feature_attributions.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/aokeson/Aggregated-Explainability-Ranking-Alternatives" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/interpretability/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://sites.computer.org/debull/A21dec/A21DEC-CD.pdf" target="_blank" rel="noopener">
+    
+    Link
+  </a>
+
+</p>
+
+  
+</div>
+
+
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span itemprop="author" class="article-metadata li-cite-author">
+    
+
+
+
+  
   <span itemprop="author name" itemtype="http://schema.org/Person">Nicasia Beebe-Wang*</span>, <span itemprop="author name" itemtype="http://schema.org/Person"><strong>Alex Okeson</strong>*</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Tim Althoff**</span>, <span itemprop="author name" itemtype="http://schema.org/Person">Su-In Lee**</span>.
 
 
@@ -689,7 +784,7 @@
   </span>
   
   <a href="https://doi.org/10.1109/JBHI.2021.3059563" itemprop="name">Efficient and Explainable Risk Assessments for Imminent Dementia in an Aging Cohort Study</a>.
-  Journal of Biomedical and Health Informatics,
+  IEEE Journal of Biomedical and Health Informatics (Special Issue on Explainable AI for Clinical and Population Health Informatics),
   2021.
   <br><em>*, ** indicate equal contribution and authors are listed alphabetically</em><p>
 
@@ -1031,7 +1126,7 @@
 <div class="col-lg-12 project-item isotope-item " itemscope itemtype="http://schema.org/CreativeWork">
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
-      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="/project/interpretability/"  itemprop="url">ML Interpretability Tool Use and Global Feature Rankings</a></h3>
+      <h3 class="article-title mb-0 mt-0" itemprop="name"><a href="/project/interpretability/"  itemprop="url">Summarize with Caution: Comparing Global Feature Attributions</a></h3>
 
       
       
@@ -1039,7 +1134,7 @@
       
       
       <div class="article-style" itemprop="articleBody">
-        Interpretability tools such as SHAP, LIME, InterpretML, and others are widely used to examine what is happening &lsquo;under the hood&rsquo; of different machine learning algorithms. However, the literature suggests that these tools can be difficult to use and understand, leading to misunderstanding and misplaced trust in a model. I conducted 2 qualitative studies to: 1) understand how experienced users use machine learning interpretability tools and the pitfalls they experience and 2) evaluate an alternative global ranking aggregation scheme. This project was started during an internship with with <a href="http://www.jennwv.com/" target="_blank">Jenn Wortman Vaughan</a> and <a href="http://dirichlet.net/" target="_blank">Hanna Wallach</a> in the <a href="https://www.microsoft.com/en-us/research/theme/fate/" target="_blank">FATE group</a> at Microsoft Research.
+        Local interpretability methods are widely used because of their ability to generate explanations tailored to individual data points even for complex black-box models. Although these methods are not designed to provide a global view of a model&rsquo;s behavior, many common interpretability tools offer makeshift global feature attributions obtained by taking the mean absolute value of each feature&rsquo;s (local) attribution scores across all training data points and then ranking the features by their average scores. We argue that averaging feature attribution scores may not always be appropriate and explore the ramifications of doing so. We present an artifact-based interview study intended to investigate whether ML developers would benefit from being able to compare and contrast different global feature attributions obtained by ranking features by other summary statistics of their attribution scores. We find that participants are able to use these global feature attributions to achieve different tasks and objectives. Viewing multiple global feature attributions increased participants&rsquo; uncertainty in their understanding of the underlying model as they became more aware of the intricacies of the model&rsquo;s behavior. However, participants expressed concerns about the time it would take to compare and contrast different global feature attributions, echoing observations from prior work about the need to balance the benefits of thinking fast and thinking slow when designing interpretability tools. This project was started during an internship with with <a href="http://www.jennwv.com/" target="_blank">Jenn Wortman Vaughan</a> and <a href="http://dirichlet.net/" target="_blank">Hanna Wallach</a> in the <a href="https://www.microsoft.com/en-us/research/theme/fate/" target="_blank">FATE group</a> at Microsoft Research.
       </div>
       
 
@@ -1054,11 +1149,25 @@
 
 
   
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/global_feature_attributions.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
 
-
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/aokeson/Aggregated-Explainability-Ranking-Alternatives" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -1081,7 +1190,7 @@
       
       
       <a href="/project/interpretability/" >
-        <img src="/project/interpretability/featured_huc67f4dccb3cfeeec52ef2d8dfed804f6_26490_540x0_resize_lanczos_2.png" itemprop="image" alt="">
+        <img src="/project/interpretability/featured_hu8a571a83114b2a19305b747347accfbd_3135632_540x0_resize_lanczos_2.png" itemprop="image" alt="">
       </a>
       
     </div>
@@ -1472,7 +1581,7 @@
   
 
   <p class="powered-by">
-    &copy;2021 &middot; 
+    &copy;2022 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
