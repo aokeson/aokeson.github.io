@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year}</copyright>
-    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 -0900</lastBuildDate>
     
 	    <atom:link href="https://aokeson.github.io/authors/jennifer-wortman-vaughan/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Summarize with Caution: Comparing Global Feature Attributions</title>
       <link>https://aokeson.github.io/publication/global_explanations/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 -0900</pubDate>
       
       <guid>https://aokeson.github.io/publication/global_explanations/</guid>
       <description></description>
